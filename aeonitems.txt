@@ -1,0 +1,1698 @@
+Grocery Item: Farm Gold Australia Carrot
+Price:  3.30
+
+Grocery Item: China Broccoli
+Price:  2.99
+
+Grocery Item: Holland Potato (1 Pack)
+Price:  1.92
+
+Grocery Item: Chicken Drumstick
+Price:  1.60
+
+Grocery Item: Blueberry
+Price:  11.90
+
+Grocery Item: Segar2go Small Pak Choy
+Price:  1.49
+
+Grocery Item: Dole Banana +/-800g
+Price:  4.99
+
+Grocery Item: Segar2go Japanese Cucumber 2pcs
+Price:  2.99
+
+Grocery Item: Local Tomato
+Price:  3.10
+
+Grocery Item: Segar2go Cameron Iceberg Lettuce
+Price:  3.70
+
+Grocery Item: First Pick Local Enoki Mushroom
+Price:  1.20
+
+Grocery Item: Chicken Fillet
+Price:  10.95
+
+Grocery Item: Segar2go Tomato In Pack
+Price:  2.80
+
+Grocery Item: Cameron Round Cabbage
+Price:  2.90
+
+Grocery Item: South Africa Lemon
+Price:  2.30
+
+Grocery Item: Segar2go Japanese Sawi
+Price:  1.79
+
+Grocery Item: Coho Salmon Steak Cut
+Price:  14.00
+
+Grocery Item: Chicken Drumstick
+Price:  8.95
+
+Grocery Item: Red Onion
+Price:  4.60
+
+Grocery Item: Edsam Ladies Finger (Premium Grade)
+Price:  3.50
+
+Grocery Item: USFL Small Pak Choy
+Price:  1.79
+
+Grocery Item: Chicken Skinless Boneless Breast
+Price:  11.95
+
+Grocery Item: Whole Chicken Without Head & Feet
+Price:  17.52
+
+Grocery Item: Chicken Thigh
+Price:  6.45
+
+Grocery Item: Nutriplus Eggs Omega-3 (L)
+Price:  8.15
+
+Grocery Item: White Garlic
+Price:  7.90
+
+Grocery Item: Segar2go Romaine Lettuce
+Price:  2.70
+
+Grocery Item: Local Pumpkin Cut
+Price:  2.63
+
+Grocery Item: Local Cucumber
+Price:  1.68
+
+Grocery Item: Australia Hass Avocado
+Price:  5.50
+
+Grocery Item: Genting Garden Tomato Cherry Honey
+Price:  6.00
+
+Grocery Item: Yellow Onion
+Price:  3.90
+
+Grocery Item: Egypt Black Magic Seedless Grapes
+Price:  11.90
+
+Grocery Item: First Pick Local Enoki Mushroom
+Price:  1.90
+
+Grocery Item: Chicken Whole Leg
+Price:  8.95
+
+Grocery Item: QL Omega Eggs
+Price:  11.55
+
+Grocery Item: Edsam Long Bean Grade Premium
+Price:  3.50
+
+Grocery Item: Chicken Wing
+Price:  8.95
+
+Grocery Item: China Century Pear XL
+Price:  2.50
+
+Grocery Item: Nutriplus Classic Eggs M
+Price:  10.70
+
+Grocery Item: Green Pepper
+Price:  2.50
+
+Grocery Item: Beijing Cabbage
+Price:  3.85
+
+Grocery Item: Chinese Cabbage
+Price:  4.05
+
+Grocery Item: Chicken Chop
+Price:  11.95
+
+Grocery Item: Edsam French Bean
+Price:  5.20
+
+Grocery Item: Cameron Lettuce
+Price:  3.20
+
+Grocery Item: Luo Han Guava (+/- 900 g - 1.1 kg)
+Price:  9.20
+
+Grocery Item: First Pick Cameron Highlands Strawberry
+Price:  12.50
+
+Grocery Item: Nutriplus Telur Kampung Egg
+Price:  17.40
+
+Grocery Item: Mr. Green Lemongrass
+Price:  0.90
+
+Grocery Item: Segar2go Heong Mark Tham
+Price:  5.00
+
+Grocery Item: LTP Telur Kampung
+Price:  7.99
+
+Grocery Item: China Cauliflower
+Price:  6.90
+
+Grocery Item: Kimdas Bayam Grade Premium
+Price:  1.60
+
+Grocery Item: Short Brinjal
+Price:  2.67
+
+Grocery Item: China Spinach (Poh Choy)
+Price:  5.20
+
+Grocery Item: USFL Japanese Sawi
+Price:  1.79
+
+Grocery Item: Mr. Green Local White Raddish (Daikon)
+Price:  2.00
+
+Grocery Item: Lime
+Price:  1.90
+
+Grocery Item: Red Pepper
+Price:  3.10
+
+Grocery Item: Nutriplus Lacto Plus 111 ABF Chicken Fillet
+Price:  11.90
+
+Grocery Item: Unifrutti South Africa Lemon 6 's
+Price:  8.90
+
+Grocery Item: Nutriplus Lacto Plus 111 ABF Chicken Skinless Boneless Breast
+Price:  13.90
+
+Grocery Item: China Shine Muscat Green Grapes
+Price:  14.90
+
+Grocery Item: QL Premium Quality Eggs
+Price:  11.20
+
+Grocery Item: USA Russet Potato (1 Pack)
+Price:  5.34
+
+Grocery Item: Egypt Arra 15 White Seedless Grapes
+Price:  11.90
+
+Grocery Item: Old Cucumber
+Price:  3.95
+
+Grocery Item: USFL Japanese Cucumber
+Price:  4.00
+
+Grocery Item: Egypt Crimson Red Seedless Grapes
+Price:  10.90
+
+Grocery Item: Small Lime Prepack
+Price:  2.00
+
+Grocery Item: Fruits Color China Fuji Apple
+Price:  17.50
+
+Grocery Item: Pak Choy
+Price:  2.60
+
+Grocery Item: Segar2go Sugar Cane Sweet Corn
+Price:  4.80
+
+Grocery Item: Long Brinjal
+Price:  4.74
+
+Grocery Item: Hokto Mushroom Value Pack
+Price:  9.99
+
+Grocery Item: Topaz Minced Chicken
+Price:  6.50
+
+Grocery Item: Segar2go Local White Radish
+Price:  2.00
+
+Grocery Item: Chicken Skinless Boneless Breast
+Price:  23.90
+
+Grocery Item: White Dragon Fruit
+Price:  4.90
+
+Grocery Item: Garden Basket Australia Sunkist Navel (1 Pack)
+Price:  21.20
+
+Grocery Item: Australia Celery
+Price:  11.90
+
+Grocery Item: Yellow Pepper
+Price:  3.18
+
+Grocery Item: Bitter Gourd
+Price:  6.71
+
+Grocery Item: South Africa Granny Smith Apple Size M
+Price:  2.00
+
+Grocery Item: The Greenstable India Small Onion
+Price:  3.50
+
+Grocery Item: Segar2go Chinese Celery (Daun Sup)
+Price:  2.20
+
+Grocery Item: Mr. Green Kangkung
+Price:  1.85
+
+Grocery Item: LTP Lacto Plus
+Price:  7.59
+
+Grocery Item: NFH Brown Button
+Price:  10.50
+
+Grocery Item: Australia Minced Beef
+Price:  14.00
+
+Grocery Item: Sweet C South Africa Leanri Mandarin
+Price:  14.90
+
+Grocery Item: Lushious Japanese Cucumber
+Price:  4.00
+
+Grocery Item: Rompine MD2 Pineapple M
+Price:  7.90
+
+Grocery Item: Kangkong Grade Premium
+Price:  1.70
+
+Grocery Item: Cavendish Banana +/- 1.0KG
+Price:  6.30
+
+Grocery Item: Nutriplus Jumbo Eggs With Omega-3
+Price:  8.75
+
+Grocery Item: USFL Milky White Pak Choy
+Price:  3.75
+
+Grocery Item: White Garlic
+Price:  4.50
+
+Grocery Item: NutriPlus Fresh Eggs Grade B
+Price:  12.00
+
+Grocery Item: Mr. Green Green Chili Padi
+Price:  1.50
+
+Grocery Item: Nutriplus Lacto Plus 111 ABF Chicken Chop
+Price:  12.90
+
+Grocery Item: China Shiitake Mushroom
+Price:  5.20
+
+Grocery Item: Segar2go Crispy Lettuce
+Price:  3.65
+
+Grocery Item: QL Classic Eggs Large
+Price:  7.50
+
+Grocery Item: Cameron Iceberg Lettuce
+Price:  3.70
+
+Grocery Item: Segar2go Baby Kailan
+Price:  5.50
+
+Grocery Item: Crunchy Fresh Grape Cherry Tomato
+Price:  3.70
+
+Grocery Item: Genting Garden Red & Green Oak Leaf
+Price:  7.35
+
+Grocery Item: Genting Garden Tomato Cherry (Red)
+Price:  4.20
+
+Grocery Item: China Singo Pear XL
+Price:  4.90
+
+Grocery Item: Ken Hin Peeled Garlic
+Price:  3.50
+
+Grocery Item: First Pick Australia Chat Potato
+Price:  7.30
+
+Grocery Item: Joo Lee Frozen Dory Fillet
+Price:  12.90
+
+Grocery Item: Tuscan Fields White Button Mushroom
+Price:  9.90
+
+Grocery Item: Zespri New Zealand Sungold Kiwi 6's
+Price:  24.90
+
+Grocery Item: South Africa Honey Fuji Apple 8's
+Price:  13.90
+
+Grocery Item: KS Organic Lacto Chicken Skinless Boneless Breast
+Price:  17.90
+
+Grocery Item: Turmeric (Kunyit) Tray
+Price:  0.88
+
+Grocery Item: China Fuji Apple XL
+Price:  4.50
+
+Grocery Item: Hokto Mushroom Value Pack 2
+Price:  9.99
+
+Grocery Item: SR Ikan Bilis Isi Pangkor A
+Price:  5.50
+
+Grocery Item: USA Fresh Cherry
+Price:  25.90
+
+Grocery Item: Atlantis King Norway Mackerel Fillet +/-350gm
+Price:  12.90
+
+Grocery Item: Fresh Norwegian Fjord Trout Fish Fillet
+Price:  28.90
+
+Grocery Item: China Lotus Root
+Price:  9.45
+
+Grocery Item: Segar2go Chives
+Price:  1.70
+
+Grocery Item: Genting Garden Baby Butterhead
+Price:  6.70
+
+Grocery Item: Nutriplus Eggs Omega-3 XL
+Price:  8.40
+
+Grocery Item: Mr. Green Hot Red (Red Chilli)
+Price:  4.50
+
+Grocery Item: South Africa Packham Pear
+Price:  4.50
+
+Grocery Item: Edsam Daun Limau Purut
+Price:  1.90
+
+Grocery Item: Techno Fresh Holland Peas
+Price:  3.20
+
+Grocery Item: Curry Leaves
+Price:  0.88
+
+Grocery Item: Edsam Galangal (Lengkuas)
+Price:  1.50
+
+Grocery Item: LTP Corn Plus
+Price:  7.59
+
+Grocery Item: Pure South Marinated New Zealand Lamb Shoulder Chop
+Price:  12.73
+
+Grocery Item: KS Organic Lacto Whole Chicken
+Price:  21.36
+
+Grocery Item: Hokto Bunashimeji Mushroom
+Price:  3.99
+
+Grocery Item: Seedless Watermelon Half Cut +/- 3KG
+Price:  13.80
+
+Grocery Item: Australia Lamb Chump Chop
+Price:  10.98
+
+Grocery Item: Hong Kong Papaya +/- 1.5KG
+Price:  14.90
+
+Grocery Item: Small Bittergourd
+Price:  3.23
+
+Grocery Item: Edsam Lemongrass
+Price:  0.90
+
+Grocery Item: Nutriplus Telur Kampung With Omega-3
+Price:  8.95
+
+Grocery Item: Atlantis King Tiger Prawn Meat M
+Price:  20.90
+
+Grocery Item: Mr. Green Red Chili Padi
+Price:  2.20
+
+Grocery Item: Mr Green English Gourd (Squash)
+Price:  1.75
+
+Grocery Item: Picolino Cucumber
+Price:  4.90
+
+Grocery Item: Aqina Chilled Pineapple Chicken Skinless Boneless Breast 2 pcs
+Price:  12.90
+
+Grocery Item: Envy New Zealand Apple 8's
+Price:  18.90
+
+Grocery Item: Jumbo Blueberry  ( 1 Pack )
+Price:  15.90
+
+Grocery Item: Mr. Green Sweet Potato Leaves
+Price:  2.20
+
+Grocery Item: KK Hoganik Broccoli Organic
+Price:  6.90
+
+Grocery Item: USFL Hong Kong Kailan
+Price:  3.50
+
+Grocery Item: Genting Garden Tomato Cherry Sungold
+Price:  6.00
+
+Grocery Item: USFL Romaine Lettuce
+Price:  2.70
+
+Grocery Item: Genting Garden Baby Romaine
+Price:  5.75
+
+Grocery Item: Genting Garden RTE Kale
+Price:  4.90
+
+Grocery Item: LKH Fresh Eggs Jumbo (AA)
+Price:  7.56
+
+Grocery Item: Nutriplus Lacto Plus 111 ABF Chicken Drumstick
+Price:  9.90
+
+Grocery Item: The Greenstable Rose Small Onion (Per Pack)
+Price:  4.90
+
+Grocery Item: Sweeki Chile Green Kiwi
+Price:  12.20
+
+Grocery Item: South Africa Royal Gala Apple 10's
+Price:  11.90
+
+Grocery Item: Zenxin Organic Antibiotic-Free Selenium Egg
+Price:  9.30
+
+Grocery Item: Nutriplus Omega 3 (M)
+Price:  11.35
+
+Grocery Item: Yong Jia Baby Wang Pak  / Small Chinese Cabbage
+Price:  4.40
+
+Grocery Item: South Africa Packham Pear
+Price:  9.60
+
+Grocery Item: Aqina Pineapple Whole Chicken
+Price:  22.35
+
+Grocery Item: Segar2go Baby Siew Pak Choy
+Price:  5.50
+
+Grocery Item: QL Classic Eggs Medium
+Price:  7.20
+
+Grocery Item: Lushious Red Chilli
+Price:  6.55
+
+Grocery Item: Pure South New Zealand Defrosted Lamb Shoulder Chop  (+/- 150 g)
+Price:  7.00
+
+Grocery Item: Aqina Frozen Pineapple Chicken Skinless Boneless Breast 2 pcs
+Price:  12.90
+
+Grocery Item: Fresh Aurora Salmon Fillet
+Price:  25.90
+
+Grocery Item: A1 Telur Kampung
+Price:  8.59
+
+Grocery Item: South Africa Green Apple 10's
+Price:  11.90
+
+Grocery Item: Segar2go Tomato Cherry Blossom
+Price:  5.70
+
+Grocery Item: Fruitstop Crips Red Apple 1 Pack
+Price:  11.50
+
+Grocery Item: Hokto Bunapi Mushroom
+Price:  3.99
+
+Grocery Item: Sweet Darling US Strawberry 1 Pack
+Price:  22.90
+
+Grocery Item: Australia Beef Australia Chilled Beef Outside Cube
+Price:  14.00
+
+Grocery Item: Zespri New Zealand Green Kiwi 6's
+Price:  20.50
+
+Grocery Item: Heong Mark Tham
+Price:  5.00
+
+Grocery Item: Asparagus (M)
+Price:  9.90
+
+Grocery Item: Bottle Gourd
+Price:  4.34
+
+Grocery Item: Seeds & Shores Australia Pink Potatoes
+Price:  6.50
+
+Grocery Item: Chitose Mini Tomato 200g
+Price:  6.80
+
+Grocery Item: Segar2go Baby Komatsuna
+Price:  5.50
+
+Grocery Item: Edsam Chinese Celery
+Price:  1.50
+
+Grocery Item: Egypt Valenicia Orange 10's
+Price:  17.90
+
+Grocery Item: USA Fresh Cherry
+Price:  58.90
+
+Grocery Item: Bunga Kantan
+Price:  2.70
+
+Grocery Item: D'Lonek Organic Lemongrass
+Price:  3.90
+
+Grocery Item: LKH Telur Kampung Segar
+Price:  7.77
+
+Grocery Item: Nutriplus Lacto Plus 111 ABF Chicken Drummet
+Price:  12.90
+
+Grocery Item: QL Sakura Lacto Egg
+Price:  11.29
+
+Grocery Item: Atlantis King Prawn Meat 100/200
+Price:  13.90
+
+Grocery Item: Marinated Lamb Chump Chop
+Price:  11.48
+
+Grocery Item: QL Omega 3 & DHA (M)
+Price:  17.90
+
+Grocery Item: Unifrutti South Africa Navel Orange 15's
+Price:  24.50
+
+Grocery Item: LTK Omega Eggs
+Price:  8.10
+
+Grocery Item: Genting Garden Italian Rocket Salad Bowl
+Price:  7.40
+
+Grocery Item: South Africa Granny Smith 8's
+Price:  13.90
+
+Grocery Item: KS Organic Lacto Chicken Chop
+Price:  17.50
+
+Grocery Item: Sunkist South Africa Cara Cara Orange 6's
+Price:  15.90
+
+Grocery Item: Nutriplus Low Cholesterol Eggs (M)
+Price:  8.15
+
+Grocery Item: Chitose Spinach 100g
+Price:  4.50
+
+Grocery Item: Coconut Jelly
+Price:  7.90
+
+Grocery Item: Aqina Frozen Pineapple Chicken Whole Leg 2 pcs
+Price:  12.90
+
+Grocery Item: TS Green Thunder Chili
+Price:  5.50
+
+Grocery Item: New Zealand Breeze Apple 8's
+Price:  15.90
+
+Grocery Item: KK Hoganik Organic Red & Green Spinach
+Price:  4.90
+
+Grocery Item: Genting Garden Tomato Cherries Assorted
+Price:  6.70
+
+Grocery Item: Australia Chill Beef Blade Block
+Price:  15.98
+
+Grocery Item: Nutriplus Eggs With Organic Selenium M
+Price:  8.15
+
+Grocery Item: Unifrutti South Africa Navel Orange 10's
+Price:  26.90
+
+Grocery Item: Mr. Green Yaw Mak Tam
+Price:  2.85
+
+Grocery Item: Unifrutti South Africa Navel Orange 5's
+Price:  16.90
+
+Grocery Item: Genting Garden Caesar Salad Bowl
+Price:  7.40
+
+Grocery Item: KK Hoganik Choy Sum Organic
+Price:  4.90
+
+Grocery Item: Daun Kunyit
+Price:  1.00
+
+Grocery Item: Frillice Iceberg Lettuce
+Price:  3.65
+
+Grocery Item: South Africa Crips Red Apple 10's
+Price:  11.90
+
+Grocery Item: NutriPlus S-Clean Egg Fresh
+Price:  7.00
+
+Grocery Item: Gourmet Chef Chicken Toast
+Price:  8.30
+
+Grocery Item: Pink Lady Apple 8's
+Price:  20.90
+
+Grocery Item: Marinated Chicken Wings
+Price:  9.95
+
+Grocery Item: Australia Jumbo Avocado
+Price:  10.90
+
+Grocery Item: Mr. Green English Pasley
+Price:  0.99
+
+Grocery Item: Yao Mak (Sweet Oat)
+Price:  6.20
+
+Grocery Item: LTP Quail Eggs
+Price:  4.20
+
+Grocery Item: Edsam English Parsley
+Price:  1.20
+
+Grocery Item: Glamour Melon Half Cut +/- 900G
+Price:  10.20
+
+Grocery Item: New Zealand Mr. Apple Pacific Queen Apple
+Price:  20.90
+
+Grocery Item: Australia Kumera Potatoes
+Price:  12.80
+
+Grocery Item: Farmlove Whole Chicken
+Price:  24.59
+
+Grocery Item: Mr. Green Hot Green (Green Chilli)
+Price:  3.55
+
+Grocery Item: KK Hoganik Organic Cherry Tomato
+Price:  4.90
+
+Grocery Item: Zenxin Organic Spinach
+Price:  6.00
+
+Grocery Item: USFL Mustard Kai Choy
+Price:  3.30
+
+Grocery Item: Australia Beef Australia Chilled Beef Outside Steak
+Price:  16.00
+
+Grocery Item: Gourmet Chef Chicken Salami
+Price:  8.90
+
+Grocery Item: Australia Chill Beef Block
+Price:  31.95
+
+Grocery Item: Aqina Frozen Pineapple Chicken Chop 2 pcs
+Price:  14.90
+
+Grocery Item: QL Sakura Lacto Eggs
+Price:  7.65
+
+Grocery Item: Marinated Chicken Chop (Blackpepper)
+Price:  13.45
+
+Grocery Item: Agape Organic Organic Mini Nai Pak
+Price:  3.90
+
+Grocery Item: Frozen Trout Block
+Price:  14.90
+
+Grocery Item: Genting Garden Tomato Baby Roma
+Price:  6.20
+
+Grocery Item: Edsam Asam Keping
+Price:  2.15
+
+Grocery Item: Spain Donut Peach
+Price:  19.50
+
+Grocery Item: Tuscan Fields Portabello BBQ Mushroom
+Price:  12.70
+
+Grocery Item: Pandan & Laguna Peeled Coconut
+Price:  7.50
+
+Grocery Item: Chile Red Globe
+Price:  12.90
+
+Grocery Item: Fruitstop China Fuji Apple 4's
+Price:  15.90
+
+Grocery Item: Baby Wong King Pak
+Price:  2.20
+
+Grocery Item: Egypt Valenicia Orange 15's
+Price:  16.90
+
+Grocery Item: Australia Beef Australia Daging Pejal
+Price:  14.00
+
+Grocery Item: Genting Garden Fresh Herb - Italian Parsley
+Price:  2.90
+
+Grocery Item: Chitose Mizuna (Rocket) 150g
+Price:  5.90
+
+Grocery Item: Brussels Sprout
+Price:  10.50
+
+Grocery Item: Gourmet Chef Beef Pepperoni
+Price:  10.90
+
+Grocery Item: Australia Chill Beef Blade (For Stir Fry)
+Price:  35.45
+
+Grocery Item: Garnion Peeled Shallot
+Price:  4.20
+
+Grocery Item: Frozen Atlantic Redfish Fillet
+Price:  18.90
+
+Grocery Item: Kukup Frozen Patin Slice Cut Skin On
+Price:  14.90
+
+Grocery Item: Seedless Watermelon +/- 6KG
+Price:  25.80
+
+Grocery Item: Bonfisken Norwegian Smoked Salmon Traditional
+Price:  15.50
+
+Grocery Item: Chitose White Corn
+Price:  9.50
+
+Grocery Item: Sliced White Button
+Price:  6.60
+
+Grocery Item: Gourmessa Beef Breakfast Streaky
+Price:  10.75
+
+Grocery Item: Atlantis King Mix Seafood
+Price:  11.50
+
+Grocery Item: Honey Dew Half Cut +/- 900G
+Price:  8.20
+
+Grocery Item: The Greenstable Thai Small Onion
+Price:  5.90
+
+Grocery Item: Fruitstop Combo A (Apple + Century Pear)
+Price:  16.90
+
+Grocery Item: Genting Garden Oriental Salad Bowl
+Price:  7.40
+
+Grocery Item: Turkey Fresh Sugar Apricot (1 Pack)
+Price:  16.90
+
+Grocery Item: Fruitstop Century Pear
+Price:  13.90
+
+Grocery Item: Australia Beef Australia Chilled Beef Topside Cube
+Price:  15.00
+
+Grocery Item: Indian Buffalo Beef FQ Slice
+Price:  20.90
+
+Grocery Item: Egypt Valenicia Orange 5's
+Price:  10.90
+
+Grocery Item: KK Hoganik Cauliflower Organic
+Price:  9.50
+
+Grocery Item: Kanika Snow Crab Leg
+Price:  10.90
+
+Grocery Item: Genting Garden Lollo Bionda
+Price:  3.95
+
+Grocery Item: D'Lonek Organic Lady Finger
+Price:  5.50
+
+Grocery Item: Happy Organic Organic Lady Finger
+Price:  3.99
+
+Grocery Item: D'Lonek Organic Cherry Tomato
+Price:  5.90
+
+Grocery Item: Happy Organic Organic Long Bean
+Price:  3.60
+
+Grocery Item: Tuscan Fields Baby Portabello Mushroom
+Price:  10.90
+
+Grocery Item: USA Nectarine
+Price:  19.90
+
+Grocery Item: Genting Garden Greek Salad Bowl
+Price:  8.60
+
+Grocery Item: China Fragrant Pear
+Price:  11.20
+
+Grocery Item: Eryngii Mushroom
+Price:  9.10
+
+Grocery Item: QL Salted Eggs
+Price:  6.45
+
+Grocery Item: Nutriplus S-Clean Kampung Egg
+Price:  9.25
+
+Grocery Item: USA Peach
+Price:  19.90
+
+Grocery Item: Zenxin Organic Hong Kong Choy Sum
+Price:  5.20
+
+Grocery Item: Nutriplus Lower Cholesterol M
+Price:  11.35
+
+Grocery Item: QL Omega 3 DHA Enriched
+Price:  7.50
+
+Grocery Item: LTP Salted Egg
+Price:  7.50
+
+Grocery Item: Yong Jia Bamboo Shoot
+Price:  6.50
+
+Grocery Item: Zenxin Organic Banana
+Price:  5.10
+
+Grocery Item: Aqina Ayam Kampung Small
+Price:  23.90
+
+Grocery Item: Garden Basket New Zealand Ambrosia Apple (1 Pack)
+Price:  19.70
+
+Grocery Item: Passion Fruits +/- 430G
+Price:  8.50
+
+Grocery Item: Australia Mutton Shoulder Chop
+Price:  17.95
+
+Grocery Item: Edsam Chives / Kuchai
+Price:  2.30
+
+Grocery Item: Gourmet Chef Streaky Beef
+Price:  12.90
+
+Grocery Item: Genting Garden Sweet & Crunchy Salad Bowl
+Price:  7.40
+
+Grocery Item: Zespri Organic New Zealand Sungold Kiwi
+Price:  24.90
+
+Grocery Item: Zespri New Zealand Green Kiwi Jumbo
+Price:  16.40
+
+Grocery Item: Happy Organic Organic Cucumber
+Price:  3.99
+
+Grocery Item: KK Hoganik Carrot Organic
+Price:  5.96
+
+Grocery Item: KK Hoganik Celery Organic
+Price:  8.76
+
+Grocery Item: Ayam Dindings Whole Chicken Segari Plus Selenium
+Price:  18.07
+
+Grocery Item: Aqina Ayam Kampung Big
+Price:  32.85
+
+Grocery Item: QL Sinar Fresh Eggs
+Price:  11.35
+
+Grocery Item: China Sinko Pear
+Price:  10.90
+
+Grocery Item: Hasil Laut Udang Kering B
+Price:  6.00
+
+Grocery Item: Kukup Sutchi Fish Fillet
+Price:  13.90
+
+Grocery Item: Australia Strawberry
+Price:  18.90
+
+Grocery Item: Soh Hoon Pre-Pack
+Price:  2.38
+
+Grocery Item: KK Hoganik Organic Siew Pak Choy
+Price:  4.90
+
+Grocery Item: Rockit Apple 5's
+Price:  25.50
+
+Grocery Item: Australia Frozen Beef Brisket Sukiyaki Sliced
+Price:  14.90
+
+Grocery Item: Fruitstop Mix Combo Green Apple With Crisp Red 1 Pack
+Price:  11.50
+
+Grocery Item: Hokto Mushroom Shabu Shabu
+Price:  9.99
+
+Grocery Item: Butter Head
+Price:  6.25
+
+Grocery Item: Nutriplus Organic Selenium
+Price:  11.35
+
+Grocery Item: South Africa Grapefruits
+Price:  2.50
+
+Grocery Item: Chitose Shungiku (Tong Hor) 100g
+Price:  4.50
+
+Grocery Item: Edsam Kacang Hijau Dal
+Price:  4.70
+
+Grocery Item: Zenxin Organic Japanese Cucumber
+Price:  3.90
+
+Grocery Item: Onzen Eggs
+Price:  12.85
+
+Grocery Item: D'Lonek Organic Long Bean
+Price:  5.40
+
+Grocery Item: KK Hoganik Red Cabbage Organic
+Price:  8.34
+
+Grocery Item: Jayamas Ikan Tenggiri Batang Cut
+Price:  25.00
+
+Grocery Item: Gourmet Chef Chicken Bologna
+Price:  8.40
+
+Grocery Item: KK Hoganik Organic Mini Cos Lettuce
+Price:  4.90
+
+Grocery Item: Washington Red Delicious Packet 8's
+Price:  20.90
+
+Grocery Item: Genting Garden Fresh Herb - Coriander
+Price:  2.90
+
+Grocery Item: Segar2go Butterhead Lettuce
+Price:  3.65
+
+Grocery Item: LKH Quail Eggs
+Price:  4.62
+
+Grocery Item: Nutriplus Lower Cholestrol XL
+Price:  8.40
+
+Grocery Item: LP Filament Stick
+Price:  3.90
+
+Grocery Item: Edsam Grounded Coconut
+Price:  3.50
+
+Grocery Item: Red Oak Lettuce
+Price:  3.65
+
+Grocery Item: Happy Organic Organic Sweet Corn
+Price:  8.19
+
+Grocery Item: KK Hoganik Radish Organic
+Price:  4.36
+
+Grocery Item: Garden Basket S.A. Red Forelle Pear
+Price:  15.20
+
+Grocery Item: Genting Garden Tomatoes Cocktail Truss
+Price:  7.80
+
+Grocery Item: NutriPlus Classis Size Plus (L)
+Price:  16.95
+
+Grocery Item: Thai Organic Coconut
+Price:  10.90
+
+Grocery Item: Genting Garden Fresh Herb - Peppermint
+Price:  2.90
+
+Grocery Item: Agape Organic Organic Siew Pak Choy
+Price:  3.80
+
+Grocery Item: Kami Filament Stick
+Price:  5.50
+
+Grocery Item: KK Hoganik Chinese Cabbage Organic
+Price:  7.80
+
+Grocery Item: Mr. Green Choy Sum Flower
+Price:  3.40
+
+Grocery Item: Tom Yam RTC
+Price:  4.00
+
+Grocery Item: Australia Chill Beef Cube
+Price:  15.00
+
+Grocery Item: Fruitstop Australia Avocado (1 Pack)
+Price:  19.50
+
+Grocery Item: Happy Organic Organic Little Eggplant
+Price:  4.99
+
+Grocery Item: South Africa Grapefruits 3's
+Price:  6.50
+
+Grocery Item: Gourmessa Beef Pepperoni
+Price:  9.85
+
+Grocery Item: Agape Organic Organic French Bean
+Price:  4.60
+
+Grocery Item: Big Romaine
+Price:  6.95
+
+Grocery Item: KK Hoganik Sweet Cabbage Organic
+Price:  8.72
+
+Grocery Item: Genting Garden Sweet Palermo
+Price:  8.75
+
+Grocery Item: Mr. Green Daun Kunyit
+Price:  1.00
+
+Grocery Item: Zespri New Zealand Sungold Kiwi
+Price:  23.00
+
+Grocery Item: Bonfisken Norwegian Smoked Salmon Black Pepper
+Price:  15.50
+
+Grocery Item: Atlantis King Pink Prawn Meat XL (1 Pack)
+Price:  24.90
+
+Grocery Item: NutriPlus S-Clean Egg Omega-3
+Price:  7.90
+
+Grocery Item: LTP Century Egg
+Price:  9.60
+
+Grocery Item: Australia Chill Beef Blade Steak
+Price:  33.45
+
+Grocery Item: Chicken Cube
+Price:  6.95
+
+Grocery Item: Herb Wild Rocket Rte
+Price:  8.50
+
+Grocery Item: NFH Korean Baby Eryngii
+Price:  8.90
+
+Grocery Item: Aomori Trout Steak Cut
+Price:  14.90
+
+Grocery Item: KK Hoganik Japanese Cucumber Organic
+Price:  7.20
+
+Grocery Item: Kampung Chicken Cut Pieces (6-8 pcs)
+Price:  19.90
+
+Grocery Item: Miranda New Zealand Yellow Apple (1 Pack)
+Price:  15.50
+
+Grocery Item: KK Hoganik Organic Kangkung
+Price:  4.90
+
+Grocery Item: LTP Black & White Egg
+Price:  8.75
+
+Grocery Item: LKH Salted Egg
+Price:  7.25
+
+Grocery Item: Kampung Chicken Half Cut
+Price:  18.50
+
+Grocery Item: Spain Black Splendor Plum +/- 500g
+Price:  12.20
+
+Grocery Item: Chicken Sukiyaki
+Price:  7.00
+
+Grocery Item: Sabah Tenom Pomelo Cut  +/- 300g
+Price:  12.00
+
+Grocery Item: Agape Organic Organic Lady Finger
+Price:  4.90
+
+Grocery Item: US Washington Granny Smith 8's
+Price:  20.90
+
+Grocery Item: Gohmey Barramundi Fillet With Portuguese Fish Sauce
+Price:  20.00
+
+Grocery Item: Jayamas Ikan Selar
+Price:  10.00
+
+Grocery Item: Zenxin Organic Okra
+Price:  5.90
+
+Grocery Item: New Zealand Persimmon 3's
+Price:  20.50
+
+Grocery Item: New Zealand Safeguard Fruit & Veggie Wash
+Price:  26.90
+
+Grocery Item: Edsam Red Chilli Grade Premium
+Price:  9.50
+
+Grocery Item: Jayamas Udang Putih M
+Price:  18.00
+
+Grocery Item: Crystal Pineapple
+Price:  6.90
+
+Grocery Item: Mr. Green Jiu Bai (Sawi Putih)
+Price:  3.15
+
+Grocery Item: Australia Chilled Beef Knuckle Steak
+Price:  14.00
+
+Grocery Item: Jayamas Udang Harimau XXL
+Price:  22.00
+
+Grocery Item: LP Filament Stick
+Price:  7.50
+
+Grocery Item: Zenxin Organic Cherry Tomato
+Price:  6.00
+
+Grocery Item: Atlantis King Frozen Lala Meat
+Price:  8.90
+
+Grocery Item: Atlantis King Boiled Hotate
+Price:  22.90
+
+Grocery Item: LTK Organic Selenium Plus
+Price:  7.90
+
+Grocery Item: NutriPlus S-Clean Egg (Selenium)
+Price:  7.90
+
+Grocery Item: Portabello Breakfast Mushroom
+Price:  12.70
+
+Grocery Item: Botak Style Coconut
+Price:  7.30
+
+Grocery Item: LKH Duck Century Eggs
+Price:  11.25
+
+Grocery Item: My Fresh Rocket Sensation (Salad)
+Price:  6.00
+
+Grocery Item: Jumbo Blueberry 1 Pack
+Price:  30.90
+
+Grocery Item: Honey Dews +/- 1.8KG
+Price:  15.90
+
+Grocery Item: Genting Garden Spinach Quinoa Salad Bowl
+Price:  8.60
+
+Grocery Item: KK Hoganik Organic Strawberry
+Price:  12.90
+
+Grocery Item: KK Hoganik Beijing Sweet Cabbage Organic
+Price:  7.20
+
+Grocery Item: Gourmet Chef Beef Merquez Sausage
+Price:  13.90
+
+Grocery Item: Edsam Salted Mui Choy
+Price:  2.78
+
+Grocery Item: Genting Garden Fresh Herb - Thyme
+Price:  2.90
+
+Grocery Item: Aqina Chilled Pineapple Chicken Chop
+Price:  15.50
+
+Grocery Item: Kukup Squid Flower
+Price:  8.90
+
+Grocery Item: Jayamas Udang Putih XXL
+Price:  22.00
+
+Grocery Item: Edsam Sweet Choy Poh
+Price:  3.58
+
+Grocery Item: Zenxin Organic Pea Sprout
+Price:  4.20
+
+Grocery Item: Gourmet Chef Chicken Thuringer Sausage
+Price:  11.90
+
+Grocery Item: KK Hoganik Pumpkin Organic
+Price:  9.10
+
+Grocery Item: Genting Garden Tomato Amoroso
+Price:  9.20
+
+Grocery Item: Honey Pineapple
+Price:  11.90
+
+Grocery Item: Australia Mutton Shoulder Chop
+Price:  9.00
+
+Grocery Item: China Yu He Bao Lychee
+Price:  18.50
+
+Grocery Item: China Jujube
+Price:  14.90
+
+Grocery Item: Turkey Black Fig
+Price:  14.50
+
+Grocery Item: USFL Salad King Lettuce
+Price:  3.35
+
+Grocery Item: TS Sawi Bunga
+Price:  3.70
+
+Grocery Item: Australia Afourer Mandarin
+Price:  9.90
+
+Grocery Item: South Africa Cripps Red Apple
+Price:  2.50
+
+Grocery Item: Spain Red Donut Nectarines
+Price:  25.90
+
+Grocery Item: USA Sugar Plum
+Price:  20.50
+
+Grocery Item: Australia Chilled Beef Topside Steak
+Price:  16.00
+
+Grocery Item: Defrosted Lamb Chump Chop
+Price:  8.00
+
+Grocery Item: Fred's UK White Onion
+Price:  7.50
+
+Grocery Item: Frozen Squid Tentacles Cube (Per Pack)
+Price:  13.90
+
+Grocery Item: My Fresh Back to Basic Salad
+Price:  7.20
+
+Grocery Item: My Fresh Italian Mix Salad
+Price:  7.20
+
+Grocery Item: Ayam Berempah
+Price:  7.95
+
+Grocery Item: Techno Fresh Waterchestnut
+Price:  5.20
+
+Grocery Item: Jayamas Siakap
+Price:  18.00
+
+Grocery Item: Gourmessa Beef Salami
+Price:  10.90
+
+Grocery Item: LKH Chicken Century Egg
+Price:  6.30
+
+Grocery Item: Two Pigeon Tenggiri Masin In Oil
+Price:  15.50
+
+Grocery Item: Spain Bollo Late Lane Navel Gunny Bags
+Price:  29.90
+
+Grocery Item: USA Dried Blueberry (1 Pack)
+Price:  15.00
+
+Grocery Item: Australia Chill Beef Blade Yakiniku
+Price:  16.00
+
+Grocery Item: Edsam Kacang Mata
+Price:  4.30
+
+Grocery Item: Edsam Mixed Soh Hoon
+Price:  4.57
+
+Grocery Item: Happy Organic Organic Green Lemon
+Price:  4.99
+
+Grocery Item: Jayamas Sotong Panjang
+Price:  23.00
+
+Grocery Item: Jayamas Bawal Hitam
+Price:  16.00
+
+Grocery Item: Jayamas Ikan Merah Cut
+Price:  27.00
+
+Grocery Item: Agape Organic Organic Lettuce Usa
+Price:  5.00
+
+Grocery Item: Glamour Melon +/- 1.8KG
+Price:  19.80
+
+Grocery Item: Fungo Natural Shiitake Mushroom
+Price:  5.90
+
+Grocery Item: My Fresh Ice Veggie Salad
+Price:  8.90
+
+Grocery Item: Chitose Komatsuna 150g
+Price:  5.90
+
+Grocery Item: Zespri New Zealand Green Kiwi
+Price:  17.90
+
+Grocery Item: Pomegranate Arils
+Price:  17.90
+
+Grocery Item: My Fresh Hearty Green (Salad)
+Price:  6.00
+
+Grocery Item: My Fresh Sweet Arugula Salad
+Price:  6.90
+
+Grocery Item: My Fresh Honey Mustard Salad
+Price:  6.90
+
+Grocery Item: My Fresh Garish Salad
+Price:  7.80
+
+Grocery Item: My Fresh Sumo Salad
+Price:  7.20
+
+Grocery Item: Pomelo 350g
+Price:  11.50
+
+Grocery Item: LKH Telur Itik
+Price:  12.10
+
+Grocery Item: USFL Pucuk Labu Cameron
+Price:  1.90
+
+Grocery Item: Marinated Whole Chicken Assorted
+Price:  23.00
+
+Grocery Item: KK Hoganik Tomato Organic
+Price:  7.45
+
+Grocery Item: Agape Organic Organic Long Bean
+Price:  4.40
+
+Grocery Item: Oceanlicious Smoked Salmon Garlic Pepper
+Price:  15.90
+
+Grocery Item: Jayamas Kerapu Cut
+Price:  26.00
+
+Grocery Item: Jayamas Bawal Emas
+Price:  14.00
+
+Grocery Item: Piau Kee Frozen Scallop With Frill
+Price:  9.88
+
+Grocery Item: Zenxin Organic Wild Bayam
+Price:  3.60
+
+Grocery Item: Genting Garden Heriloom Mini
+Price:  11.40
+
+Grocery Item: Genting Garden Fresh Herb - Oregano
+Price:  2.90
+
+Grocery Item: Honey Mandarin
+Price:  8.90
+
+Grocery Item: LTP Corn Eggs
+Price:  7.50
+
+Grocery Item: New Zealand Jazz Apple 8's
+Price:  16.90
+
+Grocery Item: Sailors Gourmet Food Beef Salami
+Price:  16.90
+
+Grocery Item: Genting Garden Fresh Herb - Mizuna
+Price:  3.65
+
+Grocery Item: Genting Garden Fresh Herb - Marjoram
+Price:  2.90
+
+Grocery Item: Aqina Chilled Pineapple Chicken Cube
+Price:  10.90
+
+Grocery Item: First Pick Indonesia Baby Green Beans
+Price:  10.90
+
+Grocery Item: Jayamas Ikan Mabong
+Price:  10.00
+
+Grocery Item: Kami Filament Stick
+Price:  10.50
+
+Grocery Item: Bonfisken Norwegian Smoked Salmon Cumin
+Price:  15.50
+
+Grocery Item: Jayamas Bawal Putih
+Price:  29.00
+
+Grocery Item: Mr Green Tong Hor
+Price:  5.50
+
+Grocery Item: Soluna Australia Apple 4 Pcs
+Price:  20.90
+
+Grocery Item: My Fresh Oriental Salad
+Price:  6.90
+
+Grocery Item: US Cherry Plum
+Price:  42.90
+
+Grocery Item: Thailand Green Asparagus
+Price:  12.90
+
+Grocery Item: Gohmey Barramundi Fillet With Thai Seafood Sauce
+Price:  20.00
+
+Grocery Item: Gohmey Barramundi Raw Portions
+Price:  28.90
+
+Grocery Item: Australia Chilled Beef Knuckle Cube
+Price:  14.00
+
+Grocery Item: Fresh Island Japanese Boiled Hotate Scallop 40/50
+Price:  16.90
+
+Grocery Item: Meals In Minutes Creamy Tuscan Salmon
+Price:  19.90
+
+Grocery Item: Bonfisken Norwegian Smoked Salmon Bombay Style
+Price:  15.50
+
+Grocery Item: SeaPack Filament Stick
+Price:  11.80
+
+Grocery Item: DMI Grey Oyster Mushroom
+Price:  8.50
+
+Grocery Item: First Pick Hong Kong Choy Sum
+Price:  7.90
+
+Grocery Item: Sydney Sprouts Alfalfa & Onion
+Price:  7.90
+
+Grocery Item: Bonfisken Norwegian Gravlax Salmon
+Price:  15.50
+
+Grocery Item: Fresh Island Whole Clean Baby Octopus
+Price:  14.90
+
+Grocery Item: Kami LP Filament Sticks Easy Peel Easy Fry
+Price:  13.90
+
+Grocery Item: Meals In Minutes Honey Orange Glazed Salmon
+Price:  18.90
+
+Grocery Item: GST Frozen Formed Scallop 20/30
+Price:  9.88
+
+Grocery Item: Whole Duck
+Price:  43.47
+
+Grocery Item: Aqina Premium Pineapple Chicken Half Cut
+Price:  19.50
+
+Grocery Item: Duck Breast Meat
+Price:  41.90
+
+Grocery Item: My Fresh Fresco Italian Salad
+Price:  6.90
+
+Grocery Item: My Fresh Fancy Coleslaw
+Price:  7.20
+
+Grocery Item: Agape Organic Organic Lettuce Shoot
+Price:  4.70
+
+Grocery Item: Jayamas Brown Sotong
+Price:  15.00
+
+Grocery Item: Hasil Laut Udang Geragau
+Price:  4.00
+
+Grocery Item: Jayamas Ikan Kerisi Bali
+Price:  9.00
+
+Grocery Item: Jayamas Jenahak Cut
+Price:  25.00
+
+Grocery Item: BroccoBaby Australia Broccolini
+Price:  16.90
+
+Grocery Item: Genting Garden Fresh Balsamic Dressing
+Price:  1.80
+
+Grocery Item: Genting Garden Fresh Herb - Spearmint
+Price:  2.90
+
+Grocery Item: Genting Garden Fresh Herb - Sage
+Price:  2.90
+
+Grocery Item: New Zealand Royal Gala 8's
+Price:  17.90
+
+Grocery Item: Sailors Gourmet Food Chicken Salami
+Price:  15.90
+
+Grocery Item: Sailors Gourmet Food Beef Pepperoni
+Price:  16.90
+
+Grocery Item: Sailors Gourmet Food Chicken Pepperoni
+Price:  15.90
+
+Grocery Item: Frozen King Prawn 16/20
+Price:  73.88
+
+Grocery Item: Kansom Wild Abalone In Retorted Pouch Blacklip
+Price:  199.00
+
+Grocery Item: Kansom Wild Abalone In Retorted Pouch Blacklip - Slice
+Price:  88.00
+
+Grocery Item: Sailors Gourmet Food Smoke Chicken Breast
+Price:  17.90
+
+Grocery Item: Edsam Dry Pak Hub
+Price:  12.85
+
+Grocery Item: Jayamas Ketam Bunga
+Price:  19.00
+
+Grocery Item: Jayamas Ikan Pari Cut
+Price:  19.00
+
+Grocery Item: Jayamas Udang Laut Besar L
+Price:  35.00
+
+Grocery Item: Jayamas Ikan Sebelah Fillet
+Price:  20.00
+
+Grocery Item: South Africa Forella Pear
+Price:  4.90
+
+Grocery Item: Chun Wee Crawfish Garlic Flavor
+Price:  38.90
+
+Grocery Item: Chun Wee Crawfish Sichuan Spicy Flavor
+Price:  38.90
+
+Grocery Item: Green Asparagus (L)
+Price:  10.90
+
+Grocery Item: Gohmey Barramundi Fillet With Bean Paste Sauce
+Price:  20.00
+
+Grocery Item: Oceanlicious Smoked Salmon Gravlax
+Price:  15.90
+
+Grocery Item: Crunchy Fresh Red & Green Coral Lettuce
+Price:  6.50
+
+Grocery Item: Safegg Tsukimi Pasteurized Egg
+Price:  4.20
+
+Grocery Item: Safegg Pasteurized Dha Eggs
+Price:  10.50
+
+Grocery Item: Kukup Kukup Udang Besar XXL
+Price:  44.88
+
+Grocery Item: Gohmey Frozen Cooked Tiger Prawn 31/40
+Price:  35.90
+
+Grocery Item: Two Pigeon Tenggiri Masin In Oil
+Price:  37.90
+
+Grocery Item: Kanika Frozen Lobster Flavoured Claw
+Price:  22.90
+
+Grocery Item: CB Sebastian Canned Crab Meat Lump
+Price:  85.00
+
+Grocery Item: CB Ocean Canned Crab Meat Claw
+Price:  84.00
+
+Grocery Item: CB New Zealand Fish Maw
+Price:  130.00
+
+Grocery Item: CB Jumbo Half Shell Scallop 8-9Cm
+Price:  47.00
+
+Grocery Item: CB Hokkaido Sea Scallop 30/40
+Price:  57.00
+
+Grocery Item: CB Frozen White Bait 5/7
+Price:  52.40
+
+Grocery Item: CB Frozen Spicy Mala Abalone 10Pc
+Price:  39.90
+
+Grocery Item: CB Frozen Small Abalone
+Price:  94.00
+

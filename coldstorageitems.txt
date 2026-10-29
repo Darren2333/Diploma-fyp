@@ -1,0 +1,393 @@
+Grocery Item: Dole Sweetio Banana Highland
+Price: 3.25
+
+Grocery Item: Lemon, 1s
+Price: 1.00
+
+Grocery Item: Large Fuji Apple China 72C
+Price: 1.45
+
+Grocery Item: Avocado Australia C23/25
+Price: 3.80
+
+Grocery Item: Pear Packham, 1s
+Price: 2.30
+
+Grocery Item: S. Jumbo Avocado Australia, 1s
+Price: 4.54
+
+Grocery Item: Joyvio Thai Coconut, 1s
+Price: 3.95$4.95
+
+Grocery Item: Envy Apples New Zealand USA 3/4s
+Price: 5.65
+
+Grocery Item: Driscoll's Raspberry USA/South Africa, 170g
+Price: 9.95
+
+Grocery Item: Jumbo Blueberries South Africa Pack, 200g
+Price: 9.50
+
+Grocery Item: Valencia Orange Bag South Africa, 900g
+Price: 4.95
+
+Grocery Item: Top Off Coconut Thailand, 1s
+Price: 3.95
+
+Grocery Item: Royal Gala Apple New Zealand/Italy Bag, 900g
+Price: 5.85$6.35
+
+Grocery Item: Yellow Pitaya Ecuador, 1s
+Price: 8.95$9.30
+
+Grocery Item: Driscoll's Blackberry USA/South Africa, 170g
+Price: 8.25
+
+Grocery Item: Red Seedless Grape Egypt, 500g
+Price: 6.50
+
+Grocery Item: Gooseberry USA Pack, 100g
+Price: 3.45
+
+Grocery Item: Malaysia Red Watermelon, 1s
+Price: 9.95
+
+Grocery Item: Black Sable Grapes Egypt, 500g
+Price: 6.50
+
+Grocery Item: Lemon South Africa / Turkey Bag, 600g
+Price: 4.35
+
+Grocery Item: Fragrant Pear China, 6s
+Price: 5.30
+
+Grocery Item: Shine Muscat Grape Korea, 450g
+Price: 18.50$26.90
+
+Grocery Item: Rockit Apple New Zealand, 5s
+Price: 9.95$10.95
+
+Grocery Item: Packham Pear Australia, 750g
+Price: 4.50
+
+Grocery Item: Green Sweet Globe Grapes Egypt, 500g
+Price: 6.50
+
+Grocery Item: Strawberries USA Punnet, 425g
+Price: 15.10
+
+Grocery Item: Guava Seedless Thailand, 500g
+Price: 2.85
+
+Grocery Item: Premium Shine Muscat China, 800g
+Price: 15.95$24.00
+
+Grocery Item: Mangosteen Thailand, 1Kg
+Price: 8.05
+
+Grocery Item: Mini Red Watermelon Thailand, 1s
+Price: 6.55
+
+Grocery Item: France Organic Juliet Apple, 800g
+Price: 7.15$8.00
+
+Grocery Item: Pink Lady Apple New Zealand, 500g
+Price: 5.90
+
+Grocery Item: Premium Jumbo Fuji Apple China
+Price: 1.95
+
+Grocery Item: Organic Chestnut With Open Shell, 300g
+Price: 6.50
+
+Grocery Item: Pandan Coconut Malaysia Pack, 1s
+Price: 5.00
+
+Grocery Item: Sambazon Acai Bowl Berry Bliss, 173g
+Price: 6.05
+
+Grocery Item: Sambazon Acai Bowl Superberry, 173g
+Price: 6.05
+
+Grocery Item: Emborg Strawberries, 450g
+Price: 7.75
+
+Grocery Item: Sambazon Acai Pure Unsweetened Superfood, 400g
+Price: 11.05
+
+Grocery Item: Sambazon Acai Organic Blend Superfruit Pack, 400g
+Price: 11.05
+
+Grocery Item: Emborg Raspberries, 300g
+Price: 9.00
+
+Grocery Item: WR LoveLive Smoothie Strawberry & Banana Mix, 480g
+Price: 8.95
+
+Grocery Item: Emborg Blueberries & Strawberries, 400g
+Price: 7.75
+
+Grocery Item: Earth Bound Org Berry Basket Blend, 10 OZ
+Price: 11.95
+
+Grocery Item: Emborg Blueberries, 400g
+Price: 7.75
+
+Grocery Item: Tropical Maria Frozen Mango Chunks, 500g
+Price: 9.60
+
+Grocery Item: Tropical Maria Frozen Pineapple Chunk, 500g
+Price: 9.60
+
+Grocery Item: Meadows Spinach & Rocket Salad Au, 100g
+Price: 5.00
+
+Grocery Item: Broccolini Bunch Australia
+Price: 5.80
+
+Grocery Item: Meadows Tuscan Mix Salad Australia, 100g
+Price: 5.00
+
+Grocery Item: Butternut Pumpkin Australia, 900g
+Price: 7.11
+
+Grocery Item: Meadows Sweet Mini Peppers, 250g
+Price: 11.50
+
+Grocery Item: Tomato Truss Flavorite, 500g
+Price: 13.00
+
+Grocery Item: Meadows Red Cherry Tom In Cup Netherlands, 230g
+Price: 7.90$9.90
+
+Grocery Item: Snackable Carrots Australia, 250g
+Price: 5.50
+
+Grocery Item: Japanese Cucumber Malaysia, 400g
+Price: 2.40
+
+Grocery Item: Tomato Bag Cameron Highlands, 500g
+Price: 1.90
+
+Grocery Item: Meadows Carrot Australia, 500g
+Price: 1.50
+
+Grocery Item: Sio Peck Chye Malaysia, 220g
+Price: 1.30
+
+Grocery Item: Round Cherry Tomato Malaysia, 275g
+Price: 5.10
+
+Grocery Item: Baby Nai Bai China, 300g
+Price: 2.50
+
+Grocery Item: Curry Potato Indonesia, 1Kg
+Price: 4.75
+
+Grocery Item: English Cucumber Malaysia, 300g
+Price: 5.20
+
+Grocery Item: Red Onion Australia, 1Kg
+Price: 7.00
+
+Grocery Item: Shanghai Green China, 250g
+Price: 2.20
+
+Grocery Item: Bunashimeji Mushroom Malaysia, 100g
+Price: 1.60
+
+Grocery Item: Chye Sim China, 300g
+Price: 2.20
+
+Grocery Item: Cherry Tomato Sungold Malaysia, 275g
+Price: 5.10
+
+Grocery Item: Baby Corn Thailand, 100g
+Price: 2.75
+
+Grocery Item: Kai Lan China, 300g
+Price: 2.20
+
+Grocery Item: Butterhead Lettuce Malaysia, 150g
+Price: 4.15
+
+Grocery Item: Spinach China, 250g
+Price: 2.20
+
+Grocery Item: Celery Australia, 1s
+Price: 3.40
+
+Grocery Item: Kai Lan Miow China, 300g
+Price: 2.90
+
+Grocery Item: Farmgate White Washed Potatoes Australia 1KG
+Price: 3.20
+
+Grocery Item: Honey Cherry Tomato Malaysia, 275g
+Price: 5.10
+
+Grocery Item: Sweet Potato Japan, 500g
+Price: 5.95
+
+Grocery Item: Round Spinach Malaysia, 220g
+Price: 1.30
+
+Grocery Item: Kang Kong Malaysia, 220g
+Price: 1.30
+
+Grocery Item: Shanghai Green Baby China, 300g
+Price: 3.00
+
+Grocery Item: Lettuce Xiang Mai China, 300g
+Price: 2.80
+
+Grocery Item: Local Tomato Malaysia, 500g
+Price: 1.50
+
+Grocery Item: Baby Romaine In Clam Malaysia, 150g
+Price: 4.30
+
+Grocery Item: Enoki Mushroom Taiwan, 200g
+Price: 1.50
+
+Grocery Item: Beijing Cabbage Wrapped China, 1.2Kg
+Price: 4.32
+
+Grocery Item: Honey Salad Malaysia, 200g
+Price: 7.00
+
+Grocery Item: Chye Sim Miow China, 300g
+Price: 3.00
+
+Grocery Item: Mini King Oyster Mushroom Korea, 300g
+Price: 4.90
+
+Grocery Item: Long Bean Malaysia, 200g
+Price: 1.80
+
+Grocery Item: Sharp Spinach Malaysia, 220g
+Price: 1.30
+
+Grocery Item: Chye Sim Malaysia, 220g
+Price: 1.30
+
+Grocery Item: Mighty Mix Singapore Pack, 100g
+Price: 5.50
+
+Grocery Item: White Shimeji Mushroom Malaysia, 100g
+Price: 1.60
+
+Grocery Item: Red Capsicum Malaysia / Vietnam, 500g
+Price: 4.25
+
+Grocery Item: Idaho Russet Potato, 1Kg
+Price: 6.00
+
+Grocery Item: Genting Garden Classic Mix Salad Malaysia Pack,  125g
+Price: 6.25
+
+Grocery Item: Young Ginger Malaysia, 200g
+Price: 2.40
+
+Grocery Item: Red Chilli Padi Malysia, 100g
+Price: 2.40
+
+Grocery Item: Mini Bittergourd Malaysia, 330g
+Price: 3.50
+
+Grocery Item: Eggplant Malaysia, 500g
+Price: 5.52
+
+Grocery Item: Assorted Cherry Tomato Malaysia, 275g
+Price: 5.10
+
+Grocery Item: Genting Garden 4 Seasons Mix Malaysia Pack,  125g
+Price: 7.00
+
+Grocery Item: Premium Medium Tomato Malaysia, 400g
+Price: 5.05
+
+Grocery Item: Pearl Brinjal Cameron Highlands, 150g
+Price: 2.00
+
+Grocery Item: Spinach Cameron Highlands, 250g
+Price: 1.50
+
+Grocery Item: Baby Fine Bean Indonesia, 150g
+Price: 2.20
+
+Grocery Item: Old Ginger, 200g
+Price: 2.60
+
+Grocery Item: Garlic Chopped Singapore, 300g
+Price: 6.00
+
+Grocery Item: Baby Roasters Potato New Zealand, 1Kg
+Price: 6.55
+
+Grocery Item: Green Capsicum Malaysia / Vietnam, 500g
+Price: 3.75
+
+Grocery Item: Daikon Japan Variety Malaysia, 1.2Kg
+Price: 7.08
+
+Grocery Item: Cabbage Wong Bok Australia, 1.6Kg
+Price: 12.00$13.60
+
+Grocery Item: Emborg Chopped Spinach, 450g
+Price: 4.10
+
+Grocery Item: Meadows Frozen Sweet Corn, 500g
+Price: 3.65
+
+Grocery Item: Emborg garden Pea, 450g
+Price: 3.90
+
+Grocery Item: Meadows Frozen Mixed Vegetables, 500g
+Price: 3.35
+
+Grocery Item: Emborg Sweet Corn, 450g
+Price: 3.90
+
+Grocery Item: Watties Mixed Vegetables, 500g
+Price: 4.95
+
+Grocery Item: Watties Garden Peas, 500g
+Price: 6.10
+
+Grocery Item: Emborg Spinach Whole Leaf, 450g
+Price: 4.55
+
+Grocery Item: Emborg Onion Rings, 450g
+Price: 4.55
+
+Grocery Item: Meadows Frozen Garden Peas, 500g
+Price: 3.35
+
+Grocery Item: Emborg Mixed Vegetable, 450g
+Price: 3.90
+
+Grocery Item: Emborg Sliced Mushroom, 450g
+Price: 4.75
+
+Grocery Item: Waitrose Duchy Organic garden Pea, 500g
+Price: 9.80
+
+Grocery Item: Wr Do Petits Pois Frozen,500g
+Price: 10.95$12.95
+
+Grocery Item: SG L Edamame Green Soy Bean, 400g
+Price: 7.85
+
+Grocery Item: Wr Do Sweetcorn Frz, 500g
+Price: 11.95$16.95
+
+Grocery Item: Emborg Broccoli Mix, 450g
+Price: 5.20
+
+Grocery Item: Maruha Edamame, 500g
+Price: 7.20
+
+Grocery Item: Emborg Florets 450g
+Price: 5.25
+

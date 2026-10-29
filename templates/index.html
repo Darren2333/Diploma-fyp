@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <title>Grocery Search</title>
+</head>
+<body>
+    <h1>Grocery Search</h1>
+    <form action="/search" method="post">
+        <label for="query">Search for an item:</label>
+        <input type="text" id="query" name="query" required>
+        <button type="submit">Search</button>
+    </form>
+    {% if results %}
+        <h2>Search Results:</h2>
+        <ul>
+            {% for item in results %}
+                <li>
+                    {{ item['name'] }} - ${{ item['price'] }} ({{ item['source'] }})
+                    {% if item == cheapest_item %}
+                        <span class="cheapest">(Cheapest)</span>
+                    {% endif %}
+                </li>
+            {% endfor %}
+        </ul>
+    {% endif %}
+</body>
+</html>
